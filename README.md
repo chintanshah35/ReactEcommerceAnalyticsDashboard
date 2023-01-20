@@ -1,5 +1,7 @@
-#Live Project: [Demo Link](https://cshah35-analytics.netlify.app/)
 # Online Retail Dashboard using React, FusionCharts, Google Sheets & Boostrap
+
+## Live Project: [Demo Link](https://cshah35-analytics.netlify.app/)
+
 
 **Steps to run the project**:
 1. After cloning the repository, use `npm install` to install all the dependencies needed.
